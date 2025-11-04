@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Iszakdavid
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning pascal :(
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me :iszakdavid9@gmail.com
 
